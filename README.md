@@ -9,9 +9,12 @@ Ao clicar no botão, uma imagem aleatória entre seis lados possíveis é exibid
 
 Este projeto foi criado para praticar **manipulação do DOM**, **uso de funções aleatórias em JavaScript** e **organização de pastas** (`css`, `js` e `imagens`).
 
-O projeto foi realizado em dupla:
+## 👥 Equipe
 
-Eric da Silva Ramos e Kaynara Terezinha de Jesus Silva Queiroz.
+O projeto foi realizado em dupla:  
+**Eric da Silva Ramos**  
+**Kaynara Terezinha de Jesus Silva Queiroz**
+
 ## 📂 Estrutura do Projeto
 
 ```bash
