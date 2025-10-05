@@ -17,8 +17,8 @@ Este projeto foi criado para praticar **manipulação do DOM**, **uso de funçõ
 ```bash
 Simulador de dado/
 ├── index.html
-├── html/
-│   └── outro html
+├── img/
+│   └── img.jpg
 ├── css/
 │   └── style.css
 ├── js/
