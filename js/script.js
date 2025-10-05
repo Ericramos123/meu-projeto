@@ -9,6 +9,8 @@ const imagens = [
 
 const botao = document.getElementById("rolarDado");
 const imagemDado = document.getElementById("imagemDado");
+const numeroDado = document.getElementById("numeroDado");
+
 
 botao.addEventListener("click", () => {
 
@@ -17,4 +19,5 @@ botao.addEventListener("click", () => {
   imagemDado.src = imagens[indice];
    numeroDado.textContent = "O número foi: " + (indice + 1);
 });
+
 
