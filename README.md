@@ -15,6 +15,31 @@ O projeto foi realizado em dupla:
 **Eric da Silva Ramos**  
 **Kaynara Terezinha de Jesus Silva Queiroz**
 
+## 🖥️ Tecnologias Utilizadas
+
+### 🧱 HTML  
+É responsável por **estruturar o conteúdo da página**.  
+No projeto, ele define os elementos principais, como:  
+- O título e o cabeçalho;  
+- A imagem do dado;  
+- O botão para rolar o dado;  
+- E o texto explicativo da página.  
+
+### 🎨 CSS  
+Cuida da **aparência e do layout** da página.  
+No projeto, o CSS foi usado para:  
+- Definir cores, tamanhos e espaçamentos;  
+- Centralizar elementos na tela;  
+- Criar as faixas vermelhas no topo e no rodapé.  
+
+### ⚙️ JavaScript  
+É o responsável por **dar vida à página**.  
+No projeto, ele:  
+- Detecta o clique no botão;  
+- Gera um número aleatório entre 1 e 6;  
+- E muda a imagem do dado de acordo com o número sorteado.  
+
+
 ## 📂 Estrutura do Projeto
 
 ```bash
@@ -27,3 +52,5 @@ Simulador de dado/
 ├── js/
 │   └── script.js
 └── README.md
+
+
