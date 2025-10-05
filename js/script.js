@@ -1,10 +1,10 @@
 const imagens = [
-  "dado1.png",
-  "dado2.png",
-  "dado3.png",
-  "dado4.png",
-  "dado5.png",
-  "dado6.png"
+  "img/dado1.png",
+  "img/dado2.png",
+  "img/dado3.png",
+  "img/dado4.png",
+  "img/dado5.png",
+  "img/dado6.png"
 ];
 
 const botao = document.getElementById("rolarDado");
@@ -17,3 +17,4 @@ botao.addEventListener("click", () => {
   imagemDado.src = imagens[indice];
    numeroDado.textContent = "O número foi: " + (indice + 1);
 });
+
