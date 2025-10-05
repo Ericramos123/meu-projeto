@@ -1,0 +1,84 @@
+/* Retângulo vermelho no topo */
+.topo-vermelho {
+  width: 100%;
+  height: 100px;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0px;
+}
+
+/* Retângulo vermelho no rodapé */
+.baixo-vermelho {
+  width: 100%;
+  height: 100px;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed; /* fixa no rodapé */
+  bottom: 0;       /* gruda na parte inferior */
+  left: 0;
+  margin: 0;
+  padding: 0px;
+}
+.baixo-vermelho h2 {
+  font-size: 16px;       /* diminui o tamanho do texto */
+  margin: 5px 0 0 0;     /* espaço entre os nomes */
+  line-height: 1.2;      /* ajusta a altura da linha */
+}
+
+
+h1 {
+  margin: 0;
+  padding: 0;
+  color: #f0f0f0;
+}
+
+/* Dado centralizado */
+.dado1 {
+  display: block;
+  margin: 40px auto 20px auto; /* centraliza horizontalmente e dá espaçamento vertical */
+  height: 100px;
+  width: auto;
+}
+
+/* Centralizando conteúdo */
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+/* Botão */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  display: block;
+  margin: 20px auto; /* centraliza abaixo do dado */
+}
+
+#resultado {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Imagem no topo vermelho */
+.icone-dado {
+  height: 50px;
+  width: auto;
+  margin-right: 10px;
+}
+
+#dupla {
+  color: #f0f0f0;
+  font-size: 20px;       /* diminui o tamanho do texto */
+  margin: 5px 0 0 0;     /* espaço entre os nomes */
+  line-height: 1.2;      /* ajusta a altura da linha */
+}
