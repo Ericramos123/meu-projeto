@@ -1,7 +1,5 @@
 # Simulador de dado
 
-## Projeto da disciplina de web 2
-
 ## 🎲 Sobre o Projeto
 
 O **Simulador de Dado** é um projeto simples feito com **HTML, CSS e JavaScript**, que tem como objetivo **reproduzir o lançamento de um dado virtual**.  
